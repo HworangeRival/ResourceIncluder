@@ -1,0 +1,16 @@
+c:\users\1\documents\visual studio 2015\Projects\◌ Binder ◉\Binder\bin\Debug\◎ Binder ◉.exe.config
+c:\users\1\documents\visual studio 2015\Projects\◌ Binder ◉\Binder\bin\Debug\◎ Binder ◉.exe
+c:\users\1\documents\visual studio 2015\Projects\◌ Binder ◉\Binder\bin\Debug\◎ Binder ◉.pdb
+c:\users\1\documents\visual studio 2015\Projects\◌ Binder ◉\Binder\bin\Debug\◎ Binder ◉.xml
+c:\users\1\documents\visual studio 2015\Projects\◌ Binder ◉\Binder\bin\Debug\Mono.Cecil.dll
+c:\users\1\documents\visual studio 2015\Projects\◌ Binder ◉\Binder\obj\Debug\Binder.vbprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2015\Projects\◌ Binder ◉\Binder\obj\Debug\Binder.Form1.resources
+c:\users\1\documents\visual studio 2015\Projects\◌ Binder ◉\Binder\obj\Debug\Binder.Resources.resources
+c:\users\1\documents\visual studio 2015\Projects\◌ Binder ◉\Binder\obj\Debug\Binder.vbproj.GenerateResource.Cache
+c:\users\1\documents\visual studio 2015\Projects\◌ Binder ◉\Binder\obj\Debug\◎ Binder ◉.exe
+c:\users\1\documents\visual studio 2015\Projects\◌ Binder ◉\Binder\obj\Debug\◎ Binder ◉.xml
+c:\users\1\documents\visual studio 2015\Projects\◌ Binder ◉\Binder\obj\Debug\◎ Binder ◉.pdb
+C:\Users\Wheel\Desktop\◌ Binder ◉\Binder\bin\Debug\◎ Binder ◉.exe.config
+C:\Users\Wheel\Desktop\◌ Binder ◉\Binder\obj\Debug\◎ Binder ◉.exe
+C:\Users\Wheel\Desktop\◌ Binder ◉\Binder\obj\Debug\◎ Binder ◉.xml
+C:\Users\Wheel\Desktop\◌ Binder ◉\Binder\obj\Debug\◎ Binder ◉.pdb
